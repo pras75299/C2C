@@ -40,8 +40,8 @@ This is a responsive template and it help the web-page to look good on all devic
 It contains multiple reusable components, Use of ````typed.js```` and its text can be change according to need, ````form part can be use in multiple templates````
 
 ### Dependencies
-[Jquery](https://code.jquery.com/jquery-3.2.1.min.js) <br/>
-[Bootstrap 3.3](https://getbootstrap.com/docs/3.3/) <br/>
-[Typed js](https://mattboldt.com/demos/typed-js/) <br/>
-[Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html) <br/>
-[Wow Js](http://mynameismatthieu.com/WOW/) <br/>
+- [Jquery](https://code.jquery.com/jquery-3.2.1.min.js) <br/>
+- [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/) <br/>
+- [Typed js](https://mattboldt.com/demos/typed-js/) <br/>
+- [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html) <br/>
+- [Wow Js](http://mynameismatthieu.com/WOW/) <br/>
