@@ -7,6 +7,7 @@ I have design this logo with the help of Photoshop CS6
 This template have multiple useful sections, it can be useful for those who really think forward to a new type landing page.
 
 ### Used Plugins
+- [Responsibility](#responsibility)
 - [Bootstrap](#bootstrap)
 - [Responsive Design](#responsive-design)
 - [Dependencies](#dependencies)
@@ -29,6 +30,17 @@ This template have multiple useful sections, it can be useful for those who real
 ### **Service Page Image** {We have Fixed menu here that's why it's replicating over the form part as well and service page will be the same, if we have multiple services, Only content will change time to time according to need}
 
 <img src="https://github.com/pras75299/C2C/blob/master/servicepage.png" width="50%" height="50%"/>
+
+
+### Responsibility
+- Template Design
+- Bug Fixing
+- Responsive Design Check
+- Cross Browser Compatibility Checking
+- UI Design
+- Front End Development
+- Photoshop Designs
+- Logo Design
 
 
 ### Bootstrap
