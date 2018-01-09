@@ -6,7 +6,7 @@ I have design this logo with the help of Photoshop CS6
 
 This template have multiple useful sections, it can be useful for those who really think forward to a new type landing page.
 
-### Used Plugins
+### Table of Content
 - [Responsibility](#responsibility)
 - [Bootstrap](#bootstrap)
 - [Responsive Design](#responsive-design)
